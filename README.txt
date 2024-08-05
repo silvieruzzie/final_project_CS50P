@@ -1,0 +1,4 @@
+# Operation Python
+#### Video Demo:  <URL HERE>
+#### Description:
+Operation Python is an interactive text-based adventure game that uses a simple GUI to display text, it has three levels in which you have to solve riddles by imputting them in the submission text area, every time a level is solved one ore more items get collected in the player's inventory. Solving the riddles also grants you access to the next level, during the last one, the player has to use one of the items collected before submitting their answer otherwise the game will tell them to try again and will give a hint on what to do.
